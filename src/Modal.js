@@ -228,7 +228,7 @@ Modal.defaultProps = {
   bottomSheet: false,
   actions: [
     <Button waves="green" modal="close" flat>
-      Submit!
+      Submit!  Now!
     </Button>
   ]
 };
